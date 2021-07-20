@@ -1,0 +1,43 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: inherit;
+}
+
+html
+{
+	font-size: 62.5%;
+	font-family: "Noto Sans", "Verdana", "Helvetica", sans-serif;
+}
+
+body
+{
+	background-color: #333;
+}
+
+h1
+{
+	background-color: #068;
+	padding: 0.5rem;
+	margin-bottom: 2rem;
+	color: White;
+	font-size: 2rem;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+main
+{
+	padding: 1rem;
+	border: 1px solid White;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+main canvas
+{
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+}
